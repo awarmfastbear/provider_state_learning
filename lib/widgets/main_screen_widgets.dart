@@ -6,22 +6,6 @@ import 'package:provider_state_learning/providers/counter_provider.dart';
 import 'package:provider_state_learning/providers/input_provider.dart';
 import 'package:provider_state_learning/providers/math_provider.dart';
 
-// class GetCountWidget extends StatelessWidget {
-//   String test12312 = "eh";
-
-//   GetCountWidget({this.test12312});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return Container(
-//       child: FlatButton(
-//         child: Text(test12312),
-//         onPressed: () {},
-//       ),
-//     );
-//   }
-// }
-
 class FlatButtonTest extends StatelessWidget {
   String flatbtntestString = "Flat Button";
 
